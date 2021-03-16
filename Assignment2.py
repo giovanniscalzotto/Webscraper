@@ -19,3 +19,6 @@ for i in range(50):
 df_Companies = pd.DataFrame(Companies)
 df_Companies.columns = ['Name','Purpose']
 print(df_Companies)
+
+if __name__ == "__main__":
+    pass
